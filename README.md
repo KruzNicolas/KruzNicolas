@@ -20,7 +20,7 @@
 </a>
 
 <a href="mailto:kruznicolas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kruznicolas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
