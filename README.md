@@ -113,6 +113,8 @@
 <details>
   <summary>📜 Certifications</summary>
 
+- [FastAPI Course](https://platzi.com/p/SombraAkai/curso/11190-course/diploma/detalle/)
+
 - [Django REST Framework](https://platzi.com/p/SombraAkai/curso/10728-course/diploma/detalle/)
 
 - [Django Course](https://platzi.com/p/SombraAkai/curso/9574-course/diploma/detalle/)
