@@ -113,6 +113,8 @@
 <details>
   <summary>📜 Certifications</summary>
 
+- [PostgreSQL Course](https://platzi.com/p/SombraAkai/curso/12074-course/diploma/detalle/)
+
 - [FastAPI Course](https://platzi.com/p/SombraAkai/curso/11190-course/diploma/detalle/)
 
 - [Django REST Framework](https://platzi.com/p/SombraAkai/curso/10728-course/diploma/detalle/)
