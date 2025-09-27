@@ -34,36 +34,7 @@
 
 ### 🛠️ Languages and Tools
 
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python" />
-
-  <!-- Django -->
-  <img src="https://skillicons.dev/icons?i=django" width="40" alt="Django" />
-
-  <!-- FastAPI  -->
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" />
-
-   <!-- PostgreSQL -->
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" />
-
-  <!-- Docker -->
-  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
-
-  <!-- Git -->
-  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
-
-  <!-- JavaScript -->
-  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" />
-
-  <!-- Go -->
-  <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" />
-
-  <!-- Linux -->
-  <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" />
-
-  <!-- Arch Linux -->
-  <img src="https://skillicons.dev/icons?i=arch" width="40" alt="Arch Linux" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,postgres,docker,git,js,go,linux,arch)](https://skillicons.dev)
 
 ---
 
