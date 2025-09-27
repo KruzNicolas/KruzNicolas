@@ -34,42 +34,35 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python" />
 
   <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=django" width="40" alt="Django" />
 
-  <!-- FastAPI (no en devicon, usamos link externo) -->
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" alt="FastAPI" />
+  <!-- FastAPI  -->
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI" />
 
    <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" />
 
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
 
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
 
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" />
 
   <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go" />
 
   <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" />
 
   <!-- Arch Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" alt="Arch Linux" />
+  <img src="https://skillicons.dev/icons?i=arch" width="40" alt="Arch Linux" />
 </p>
 
 ---
@@ -78,7 +71,7 @@
 
 - **Universidad Autónoma de Occidente, Cali, Colombia**
 
-  - Bachelor of Science in Multimedia Engineering
+  - Bachelor of Science in Computer Science
   - GPA: 3.7 / 4.0
   - Expected: Nov 2028
 
@@ -98,6 +91,7 @@
 - Teamwork
 - Creativity
 - Adaptability
+- Self-taught
 
 </details>
 
