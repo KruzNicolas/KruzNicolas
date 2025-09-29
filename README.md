@@ -27,7 +27,7 @@
 
 ### 🚀 Experiences
 
-- (2025.09 - present) Freelance Backend Developer · Upwork
+- (2025.09 - present) Freelance Software Developer
 
 ### ⚡ Projects
 
