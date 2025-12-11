@@ -31,7 +31,9 @@
 
 ### ⚡ Projects
 
+- (2025.12 - 2025.12) [Tasks Tracker](https://github.com/KruzNicolas/Tasks_tracker)
 - (2025.08 - 2025.10) [Jinro Shortener](https://github.com/KruzNicolas/Jinro)
+
 <!-- - **Discord Clone (WIP – planned for late 2025)**: Real-time chat backend with WebSockets and Go.
 - **[Good First Issue Contributions](https://github.com/pulls?q=is%3Apr+author%3AKruzNicolas)**: Small open-source contributions and documentation updates. -->
 
